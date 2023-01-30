@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="185.53983"
+   width="923.0769"
+   id="svg20"
+   version="1.1"
+   viewBox="-76.3875 -25.59 509.24999 35.609731"
+   sodipodi:docname="Binance-Logo.wine.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview172"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.62375"
+     inkscape:cx="406.41283"
+     inkscape:cy="92.184369"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <defs
+     id="defs14">
+    <style
+       id="style12" />
+  </defs>
+  <g
+     transform="translate(-116.81121,-110.08842)"
+     id="g18">
+    <path
+       id="path16"
+       d="M 63,101.74 51.43,113.3 39.87,101.74 51.43,90.18 Z M 91.05,73.67 110.86,93.49 122.42,81.93 91.05,50.56 59.68,81.93 71.24,93.49 Z m 39.63,16.51 -11.56,11.56 11.56,11.56 11.55,-11.56 z M 91.05,129.81 71.24,110 59.68,121.55 91.05,152.92 122.42,121.55 110.86,110 Z m 0,-16.51 11.56,-11.56 -11.56,-11.56 -11.56,11.56 z"
+       fill="#f0b90b"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       id="path254"
+       d="m 213.05,114.2771 v -0.16 c 0,-7.54 -4,-11.31 -10.51,-13.79 4,-2.250005 7.38,-5.780005 7.38,-12.110005 v -0.16 c 0,-8.82 -7.06,-14.52 -18.53,-14.52 H 165.35 V 129.6771 h 26.7 c 12.67,0 21.02,-5.13 21.02,-15.4 z m -15.4,-24.000005 c 0,4.17 -3.45,5.94 -8.9,5.94 h -11.37 v -11.85 h 12.19 c 5.21,0 8.1,2.08 8.1,5.77 z m 3.13,22.460005 c 0,4.17 -3.29,6.09 -8.75,6.09 h -14.65 v -12.33 h 14.27 c 6.34,0 9.15,2.33 9.15,6.1 z m 38.22,16.94 V 73.537095 H 226.61 V 129.6771 Z m 66.39,0 V 73.537095 H 293.16 V 108.1071 L 266.86,73.537095 H 255.47 V 129.6771 h 12.19 V 93.987095 l 27.18,35.690005 z m 68.41,0 -24.1,-56.540005 H 338.31 L 314.26,129.6771 h 12.59 l 5.15,-12.59 h 23.74 l 5.13,12.59 z m -22.45,-23.5 h -14.96 l 7.46,-18.200005 z m 81.32,23.5 V 73.537095 H 420.44 V 108.1071 L 394.13,73.537095 H 382.75 V 129.6771 h 12.18 V 93.987095 l 27.19,35.690005 z m 63.75,-9.06 -7.85,-7.94 c -4.41,4 -8.34,6.57 -14.76,6.57 -9.62,0 -16.28,-8 -16.28,-17.64 v -0.16 c 0,-9.620005 6.82,-17.480005 16.28,-17.480005 5.61,0 10,2.4 14.36,6.33 l 7.83,-9.06 c -5.21,-5.13 -11.54,-8.66 -22.13,-8.66 -17.24,0 -29.27,13.07 -29.27,29.000005 v 0.16 c 0,16.12 12.27,28.87 28.79,28.87 10.81,0.03 17.22,-3.82 22.99,-9.99 z m 52.7,9.06 v -11 H 518.6 v -11.81 h 26.47 V 95.867095 H 518.6 v -11.34 h 30.08 v -11 H 506.33 V 129.6671 Z"
+       fill="#f0b90b"
+       sodipodi:nodetypes="cscsssccscccsccscccsccsccccccccccccccccccccccccccccccccccccccccccccssssccssscccccccccccccccc" />
+  </g>
+</svg>
